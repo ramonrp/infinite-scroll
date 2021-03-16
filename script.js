@@ -3,7 +3,7 @@ const loader = document.querySelector("#loader");
 const imgContainer = document.querySelector("#image-container");
 
 //UnsSplashAPI
-const accessKey = "ldHQhyN6gv7OygTa7QzH76fbrHnidhxtkaRBE78kY-M";
+const accessKey = "AseoYEZz4aM5fmBGETaUQNGmbfOVdFXL8kTdCNgnpog";
 const count = 30;
 const endpoint = `https://api.unsplash.com/photos/random/?client_id=${accessKey}&count=${count}&`;
 
